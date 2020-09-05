@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4dcu-be/BenfordsLaw/master?filepath=Testing%20Benford's%20Law.ipynb)
+
 # Putting Benford's Law to the Test
 
 After seeing the Episode on [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law) in [Latif Nasser](https://twitter.com/latifnasser)'s 
